@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492007271940",
+    "project_id": "newsapp-1a833",
+    "storage_bucket": "newsapp-1a833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492007271940:android:f149eabe91dc057465cf51",
+        "android_client_info": {
+          "package_name": "com.moengage.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492007271940-gem26c69t7jt2et1bu3323hkscko5rh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUeZXvqhgznp4K61y-RkdBjzFpBC9gyfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492007271940-gem26c69t7jt2et1bu3323hkscko5rh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
